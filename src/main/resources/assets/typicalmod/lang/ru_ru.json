@@ -1,0 +1,17 @@
+{
+  "commands.help": "Команды мода: 'типо команды когда-нибуть'",
+  "commands.error": "Ошибка при выполнении команды '%s': %s",
+  "commands.error.noPermissions": "У вас нет прав на использование команды %s",
+  "event.chat.test": "Тест ивента чата. Event = %s. Player = %s. Message = %s",
+  "commands.money": "Ваш баланс: %s",
+  "commands.pay.lowBal": "Ваш баланс отрицателен, вы не можете перевести валюту",
+  "commands.pay.numberFormatException": "Введите ЧИСЛО не ниже 0",
+  "commands.pay.noMoney": "У вас нет столько средств. На вашем балансе %s",
+  "commands.pay.tryToItself": "Вы не можете перевести самому себе деньги",
+  "events.payTime": "Вы получили %s$ за игру на сервере :)",
+  "kits.kitNoFound": "Кит %s не найден",
+  "kit.error": "Что-то пошло не так при попытке выдать кит",
+  "kit.noPerm": "Нет прав на получение этого кита",
+  "kit.timeNeed": "Вы сможете получить кит `%s` через %s секунд",
+  "kit.gotKit": "Вам выдан кит %s"
+}

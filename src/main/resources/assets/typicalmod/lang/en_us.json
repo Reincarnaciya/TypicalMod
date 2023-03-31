@@ -1,0 +1,17 @@
+{
+  "commands.help": "Mod commands: 'like a commands ever'",
+  "commands.error": "Error while executing command '%s': %s",
+  "commands.error.noPermissions": "no permissions",
+  "event.chat.test": "test chat event. Event = %s. Player = %s. Message = %s",
+  "commands.money": "Your balance: %s",
+  "commands.pay.lowBal": "Your balance is negative, you cannot transfer currency",
+  "commands.pay.numberFormatException": "Please enter a NUMBER of at least 0",
+  "commands.pay.noMoney": "You don't have that much money. On your balance %s",
+  "commands.pay.tryToItself": "You cannot transfer money to yourself",
+  "events.payTime": "You received %s for playing on the server :)",
+  "kits.kitNoFound": "Kit %s not found",
+  "kit.error": "Something went wrong while trying to issue a whale",
+  "kit.noPerm": "No rights to receive this kit",
+  "kit.timeNeed": "You will be able to get kit `%s` in %s seconds",
+  "kit.gotKit": "You have been given a kit %s"
+}
